@@ -3,4 +3,6 @@ Este Producto que te enseño en esta vez es un código que sirve para reproducir
 
 Los archivos que estan en .zip lo debes descomprimir para que asi te funcione muy bien, sin problema alguno.
 
-Donacion o Servicios: https://ko-fi.com/licdwalterg
+Donation or Services: https://ko-fi.com/licdwalterg
+Store: https://bundlecode.com
+Telegram: https://t.me/WalterGarci
